@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6bFZRUcu+HTrLFzUzj9MRb35sMB7pUSv8qSe+Atr/0146JVlpOC6ibgLAhLOJZVd2mOr/dz7XkLisxsnBQIf5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CAIXA\\Documents\\Softwares\\BaixarVariasMusicasSnappea\\BaixarVariasMusicasSnappea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAIXA\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
+    "C:\\Users\\CAIXA\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\CAIXA\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\CAIXA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\CAIXA\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

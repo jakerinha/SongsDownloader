@@ -1,0 +1,10 @@
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.csproj.AssemblyReference.cache
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.TelaPrincipal.resources
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.Properties.Resources.resources
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.csproj.GenerateResource.cache
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.csproj.CoreCompileInputs.cache
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\bin\Debug\FormularioWeb.exe.config
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\bin\Debug\FormularioWeb.exe
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\bin\Debug\FormularioWeb.pdb
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.exe
+C:\Users\CAIXA\Documents\Softwares\BaixarVariasMusicasSnappea\FormularioWeb\obj\Debug\FormularioWeb.pdb
